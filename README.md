@@ -3,14 +3,16 @@
 ## Equipe:
 - Danilo Dias Costa
 - Higor Alves Ferreira
-- Lorena Queiroz da Cunha
+- Lorena da Cunha Queiroz 
 - Lucas Macedo da Silva
 - Vitor de Almeida Silva
 
+
 ## Motivação
-- O site visa permitir que pessoas com deficiência se integrem no meio digital. Além disso, permite que elas deem sua opinião sobre sites.
+- O site visa permitir que pessoas com deficiência se integrem no meio digital, por meio de uma comunidade em um ambiente que dá voz a suas opiniões perante suas dificuldades;
+- Objetiva permitir que, pessoas com deficiência deem sua opinião sobre sites e tomem conhecimento acerca de seus direitos perante a lei, uma vez que, geralmente as pessoas  não conhecem seus próprios direitos, ou mesmo empresas não se atentam a estes pontos;
 - Montar um banco de dados público sobre a opinião de pessoas com diferentes deficiências sobre diferentes sites e permitir que empresas/desenvolvedores possam avaliar seus sites quanto a acessibilidade com diferentes pessoas com diferentes tipos e graus de deficiência. 
-- Espera-se que o site possa vir a ser usado como ferramenta científica. Provendo um banco de dados sobre a opinião do uso de sites por parte de pessoas com deficiência.
+- Espera-se que, o site possa vir a ser usado como ferramenta científica, disponibilizando informações  e opiniões dos usuários com alguma deficiência, obtidos via questionários, em relação ao uso de sites ou aplicações. Isso, perante a concordancia do usuário  em compartilhar tais informações;
 - Tornar transparente os direitos de pessoas deficientes.
 
 ## Como Executar
@@ -32,7 +34,7 @@ Permite que o usuário realize seu cadastro no site. Também é solicitado o ane
 Permite o usuário criar seu login no sistema. 
  
 ### adesao.html
-Permite que empresas/desenvolvedores, denominados de parceiros, enviem seus sites para serem avaliados pelas pessoas com deficiência possam avalia-lo. O parceiro pode contribuir com algum valor para cada avaliador.
+Permite que empresas/desenvolvedores, denominados de parceiros, enviem seus sites para serem avaliados pelas pessoas com deficiência possam avaliá-lo. O parceiro pode contribuir com algum valor para cada avaliador.
 
 ### SitesAcessiveis.html
 Lista sites que apresentam ferramentas de acessibilidade, a nota que o site recebeu ao ser avaliado, o nome do site, a categoria do site e a opção de avaliar o site. Tudo isto de forma suscinta.
@@ -44,7 +46,7 @@ Lista as leis públicadas pelo governo.
 Ao selecionar um site para avaliar, esta guia será aberta e apresenta algumas perguntas sobre o site e solicita a opinião do avaliador.
 
 ### Tela_Questionario.html
-Apresenta um pequeno questionário que pode ser preenchido pelo usuário. Consiste de algumas perguntas que serão salvas em um banco de dados que posteriormente serão analisados pela inteligênia artificial.
+Apresenta um pequeno questionário que pode ser preenchido pelo usuário. Consiste de algumas perguntas que terão suas respostas salvas em um banco de dados que posteriormente serão analisadas pela inteligência artificial.
 Observação: Questionário meramente ilustrativo, pois seria necessário a validação do questionário necessitaria de ser validado pela comunidade científica.
 
 ### Sobre.html
