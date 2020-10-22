@@ -1,10 +1,10 @@
 # True OP
 ## Equipe:
-### Danilo Dias Costa
-### Higor Alves Ferreira
-### Lorena Queiroz da Cunha
-### Lucas Macedo da Silva
-### Vitor de Almeida Silva
+- Danilo Dias Costa
+- Higor Alves Ferreira
+- Lorena Queiroz da Cunha
+- Lucas Macedo da Silva
+- Vitor de Almeida Silva
 
 # Páginas
 ## home.html
